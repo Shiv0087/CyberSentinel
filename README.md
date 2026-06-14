@@ -302,20 +302,12 @@ Alternatively, live alerts can be collected by running Suricata or Cowrie agains
 
 ---
 
-## 👨‍💻 Author
-
-**[Your Name]**
-Final Year B.Tech/B.E. — [Your College Name]
-[your.email@example.com] · [LinkedIn](#) · [GitHub](#)
-
-**Project Guide:** [Prof. Name], Department of [CS/IT/Cybersecurity]
-
 ---
 
 ## 📄 License
 
 This project is developed for academic purposes as part of a Final Year Project.
-© 2025 [Your Name] — [Your Institution]
+© 2026
 
 ---
 
